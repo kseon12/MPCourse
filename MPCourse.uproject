@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0DAD3BFF-4F59-9E2C-5456-D8A876E77041}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MPCourse",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
